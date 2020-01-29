@@ -3,5 +3,5 @@
 
 
 ## Demo
- ![Demo](https://github.com/peace-shillong/Call-from-Phone/blob/master/call_phone.gif)
+ ![Demo](https://github.com/peace-shillong/Call-from-App/blob/master/call_phone.gif)
  
